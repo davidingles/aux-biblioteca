@@ -5,16 +5,7 @@ import { Stats, OrbitControls, Environment, useGLTF, Clone, Html, ContactShadows
 import { useControls } from 'leva'
 
 const Models = [
-  // { title: 'Hammer', url: './models/hammer.glb' },
-  // { title: 'cajaSeparadorRemesh', url: './gltf/cajaSeparadorRemesh.glb' },
-  // { title: 'cajaSeparadorRemesh2', url: './gltf/cajaSeparadorRemesh2.glb' },
-  // { title: 'troquel4e0067_glb', url: './gltf/troquel4e0067_glb.glb' },
-  // { title: 'CajaSeparador', url: './gltf/CajaSeparador.glb' },
-  // { title: 'jamoneroMacondo2', url: './gltf/jamoneroMacondo2.glb' },
-  // { title: 'jamoneroMacondo2', url: './gltf/jamoneroMacondo2.glb' },
-  // { title: 'antorcha2', url: './antorcha2.glb', miEscala: .5, miPosicion: -0.3 },
-  // { title: 'antorcha1', url: './antorcha1.glb', miEscala: .5, miPosicion: -0.3 },
-  // { title: 'donaciones', url: './donaciones.glb', miEscala: .2, miPosicion: -0.3 },
+
   { title: '4D BIBLIOTECA', url: './4D BIBLIOTECA.glb', miEscala: .8, miPosicion: -0 },
 ]
 
